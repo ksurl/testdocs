@@ -1,5 +1,5 @@
 site_name: Test Docs
-site_url: http://ksurl.github.io/testdocs/
+site_url: https://ksurl.github.io/testdocs/
 repo_url: https://github.com/ksurl/testdocs/
 theme:
   name: 'material'
